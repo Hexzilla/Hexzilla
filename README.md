@@ -21,5 +21,5 @@ I’m always eager to learn, optimize, and push the boundaries of what's possibl
 
 ## 📫 Contact Me
 - **Email:** hexzilla256@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/Hexzilla)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/Hexzilla)
+- **GitHub:** [Hexzilla's GitHub Profile](https://github.com/your-username)
