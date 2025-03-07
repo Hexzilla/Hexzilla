@@ -10,7 +10,7 @@ I take pride in crafting robust systems that solve real-world problems.
 I’m always eager to learn, optimize, and push the boundaries of what's possible with technology.
 
 ## 💻 Tech Stack
-- **Languages:** JavaScript, TypeScript, Solidity, Rust, Python, Java, C#  
+- **Languages:** JavaScript, TypeScript, C#, Java, Solidity, Rust, Python 
 - **Frontend:** React, Next.js, Angular  
 - **Backend:** Node.js, Express, Spring Boot  
 - **Cloud & DevOps:** AWS SAM, Lambda, RDS, DynamoDB  
@@ -22,4 +22,4 @@ I’m always eager to learn, optimize, and push the boundaries of what's possibl
 ## 📫 Contact Me
 - **Email:** hexzilla256@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/Hexzilla)
-- **GitHub:** [Hexzilla's GitHub Profile](https://github.com/your-username)
+- **GitHub:** [Hexzilla's GitHub Profile](https://github.com/Hexzilla/?v=n)
