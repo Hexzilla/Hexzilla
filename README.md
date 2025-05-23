@@ -12,7 +12,7 @@ I’m always eager to learn, optimize, and push the boundaries of what's possibl
 ## 💻 Tech Stack
 - **Languages:** JavaScript, TypeScript, C#, Java, Solidity, Rust, Python 
 - **Frontend:** React, Next.js, Angular  
-- **Backend:** Node.js, Express, Spring Boot  
+- **Backend:** Node.js, Express, Spring Boot, Django
 - **Cloud & DevOps:** AWS SAM, Lambda, RDS, DynamoDB  
 - **Blockchain:** Smart Contracts (Solidity, Rust)  
 
